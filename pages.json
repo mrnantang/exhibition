@@ -1,0 +1,92 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	
+	
+		{
+
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "2021.12“国际中文展”"
+			}
+		},
+		{
+				"path":"pages/index/text",
+				"style":{
+					"navigationBarTitleText":""
+				}
+			},
+		{
+			"path":"pages/Com/panel",
+			"style":{
+				"navigationBarTitleText":""
+			}
+		},
+		{
+			"path": "pages/index/music",
+			"style": {
+				"navigationBarTitleText": "多彩中德文化"
+			}
+		},
+		{
+			"path": "pages/index/res",
+			"style": {
+				"navigationBarTitleText": "熊猫陪我过春节"
+			}
+		},
+		{
+			"path": "pages/index/yunzhanyan",
+			"style": {
+				"navigationBarTitleText": "魅力云春晚"
+			}
+		},
+		{
+			"path": "pages/Com/lunBo",
+			"style": {
+				"navigationBarTitleText": "我与中国的故事"
+			}
+		},
+		{
+		
+		
+			"path": "pages/index/res1",
+			"style": {
+				"navigationBarTitleText": "“国宝”观察日记"
+			}
+		},
+		{
+		
+		
+			"path": "pages/index/world",
+			"style": {
+				"navigationBarTitleText": "熊猫与非遗"
+			}
+		},
+		{
+		
+		
+			"path": "pages/index/happy",
+			"style": {
+				"navigationBarTitleText": "欢乐中国年"
+			}
+		},
+		{
+			"path":"pages/index/zhibo",
+			"style":{
+				"navigationBarTitleText":"魅力云春晚"
+			}
+		}
+		
+	
+    ],
+	"globalStyle": {
+		"mp-alipay": {
+			/* 支付宝小程序特有相关 */
+			"transparentTitle": "always",
+			"allowsBounceVertical": "NO"
+		},
+		"navigationBarBackgroundColor": "#F2F2F2",
+		"navigationBarTitleText": "魅力汉语全球行",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black"
+	}
+}
